@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (hindari commit dataset besar)
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.zip
+
+# Logs
+*.log
+
+# Output reports
+outputs/
+reports/generated/
+
+# Temp files
+*.tmp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
