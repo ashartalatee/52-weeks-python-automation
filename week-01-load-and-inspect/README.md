@@ -157,7 +157,3 @@ Minggu ini kamu sudah bisa:
 * punya pondasi sebelum masuk cleaning
 
 Ini skill dasar tapi **super penting** untuk automation.
-
----
-
-Kalau kamu mau, aku bisa langsung buatin **script Week 1 lengkap**, atau **template moggo buat commit ke GitHub**.
